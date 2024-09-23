@@ -1,5 +1,5 @@
 def hello_world():
-    return "Hellooo mistake!"
+    return "Hellooo!"
 
 def greet_person(name):
     return f"Hello, {name}!"
